@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>测试文章</title>
+    <link href="/2024/07/20/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <url>/2024/07/20/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Hexo-测试页面"><a href="#Hexo-测试页面" class="headerlink" title="Hexo 测试页面"></a>Hexo 测试页面</h1><p>这是一个用于测试Hexo的<strong>测试页面</strong>。它设计到了各种Markdown元素。</p><h2 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h2><ul><li><a href="#%E6%A0%87%E9%A2%98">标题</a></li><li><a href="#%E6%AE%B5%E8%90%BD">段落</a></li><li><a href="#%E5%88%97%E8%A1%A8">列表</a></li><li><a href="#%E9%93%BE%E6%8E%A5%E5%92%8C%E5%9B%BE%E7%89%87">链接和图片</a></li><li><a href="#%E4%BB%A3%E7%A0%81">代码</a></li><li><a href="#%E5%BC%95%E7%94%A8">引用</a></li><li><a href="#%E8%A1%A8%E6%A0%BC">表格</a></li></ul><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><h1 id="标题-1"><a href="#标题-1" class="headerlink" title="标题 1"></a>标题 1</h1><h2 id="标题-2"><a href="#标题-2" class="headerlink" title="标题 2"></a>标题 2</h2><h3 id="标题-3"><a href="#标题-3" class="headerlink" title="标题 3"></a>标题 3</h3><h4 id="标题-4"><a href="#标题-4" class="headerlink" title="标题 4"></a>标题 4</h4><h5 id="标题-5"><a href="#标题-5" class="headerlink" title="标题 5"></a>标题 5</h5><h6 id="标题-6"><a href="#标题-6" class="headerlink" title="标题 6"></a>标题 6</h6><h2 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h2><p>这是一个包含一些<em>斜体</em>和<strong>粗体</strong>文字的段落。</p><p>这里是一个带有<a href="https://hexo.io/zh-cn/">链接</a>的段落。</p><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><ul><li>项目 1</li><li>项目 2<ul><li>子项目 1</li><li>子项目 2</li></ul></li></ul><h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><ol><li>第一项</li><li>第二项</li><li>第三项</li></ol><h2 id="链接和图片"><a href="#链接和图片" class="headerlink" title="链接和图片"></a>链接和图片</h2><p><a href="https://hexo.io/zh-cn/">Hexo 官网</a></p><p><img src="https://hexo.io/logo.svg" alt="Hexo Logo"></p><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><h3 id="行内代码"><a href="#行内代码" class="headerlink" title="行内代码"></a>行内代码</h3><p>这里是一些行内代码：<code>console.log(&#39;Hello, Hexo!&#39;);</code></p><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><pre><code class="javascript">function helloHexo() &#123;  console.log(&#39;Hello, Hexo!&#39;);&#125;</code></pre>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2024/07/19/hello-world/"/>
     <url>/2024/07/19/hello-world/</url>
